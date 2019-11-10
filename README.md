@@ -1,2 +1,4 @@
 # cUrsa
-cutie hack 2019 project
+Cutie Hack 2019 Project 
+
+Team Members: Shubham Batra 
